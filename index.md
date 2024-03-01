@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Welcome
 ---
 
+# Angelica Carlos
+## Web Developer

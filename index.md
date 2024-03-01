@@ -3,4 +3,4 @@ title: Welcome
 ---
 
 # Angelica Carlos
-## Web Developer
+## Full-stack Developer
